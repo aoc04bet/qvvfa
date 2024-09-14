@@ -9,7 +9,6 @@ A **AOC04Bet** é uma plataforma de apostas online inovadora e confiável, ideal
 ## 🔥 Principais Vantagens
 
 - **Segurança de Ponta:** Seus dados e transações são protegidos com criptografia avançada.
-- **Mercados Diversificados:** Aposte em futebol, basquete, tênis, e-sports, cassino e muito mais.
 - **Bônus Incríveis:** Ganhe bônus em sua primeira aposta e promoções frequentes para clientes leais.
 - **Suporte 24/7:** Atendimento ao cliente disponível 24 horas por dia, 7 dias por semana, pronto para te ajudar.
 - **Interface Amigável:** A plataforma é fácil de usar, permitindo que você foque no que importa: ganhar!
