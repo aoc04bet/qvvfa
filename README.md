@@ -4,7 +4,7 @@ Bem-vindo à **AOC04Bet**, a casa de apostas online que está conquistando o Bra
 
 ## 🌟 O que é a AOC04Bet?
 
-A **AOC04Bet** é uma plataforma de apostas online inovadora e confiável, ideal para quem quer apostar com segurança e aproveitar os melhores bônus e odds do mercado. Com uma vasta gama de opções de apostas, desde esportes tradicionais até e-sports e cassino ao vivo, nossa plataforma é feita para proporcionar a melhor experiência possível.
+A **AOC04Bet** é uma plataforma de apostas online inovadora e confiável, ideal para quem quer apostar com segurança e aproveitar os melhores bônus e odds do mercado. Com uma vasta gama de opções de apostas, nossa plataforma é feita para proporcionar a melhor experiência possível.
 
 ## 🔥 Principais Vantagens
 
